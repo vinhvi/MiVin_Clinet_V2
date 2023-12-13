@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MiVin_Clinet_V2/static/css/main.d0beb92d.css",
+    "main.js": "/MiVin_Clinet_V2/static/js/main.aee07725.js",
+    "static/media/thumbai_1.png": "/MiVin_Clinet_V2/static/media/thumbai_1.9c5843aa8dbb3b1bac17.png",
+    "static/media/thumbai_2.png": "/MiVin_Clinet_V2/static/media/thumbai_2.9a69dfc03638206b7ad5.png",
+    "static/media/thumbai_3.png": "/MiVin_Clinet_V2/static/media/thumbai_3.a46fb0257ea7c6bec90a.png",
+    "static/media/logo.png": "/MiVin_Clinet_V2/static/media/logo.acdb74d8d5aabbbca821.png",
+    "index.html": "/MiVin_Clinet_V2/index.html",
+    "main.d0beb92d.css.map": "/MiVin_Clinet_V2/static/css/main.d0beb92d.css.map",
+    "main.aee07725.js.map": "/MiVin_Clinet_V2/static/js/main.aee07725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0beb92d.css",
+    "static/js/main.aee07725.js"
+  ]
+}
